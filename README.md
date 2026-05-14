@@ -29,22 +29,34 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h4>Security & OS</h4>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Ubuntu-E9431F?style=for-the-badge&logo=ubuntu&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+      <h4>Cybersecurity Ops</h4>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-4F5D95?style=flat-square&logo=nmap&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Nessus-231F20?style=flat-square&logo=tenable&logoColor=white" />
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>Development</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <h4>Secure Development</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>Workflow</h4>
-      <img src="https://img.shields.io/badge/Claude_Code-8E44AD?style=for-the-badge&logo=anthropic&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Firefox_Dev-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <h4>Infrastructure & Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Firefox_Dev-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_Code-8E44AD?style=flat-square&logo=anthropic&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows-terminal&logoColor=white" />
     </td>
   </tr>
 </table>
