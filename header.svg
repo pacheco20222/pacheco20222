@@ -1,0 +1,24 @@
+<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes lineGrow {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    .hero-text { font: 600 48px 'Instrument Serif', serif; fill: #1A1A1A; opacity: 0; animation: fadeIn 0.8s ease-out forwards; }
+    .sub-text { font: 400 18px 'Instrument Sans', sans-serif; fill: #666; opacity: 0; animation: fadeIn 0.8s ease-out 0.3s forwards; }
+    .line { height: 1px; fill: #E5E5E5; animation: lineGrow 1s ease-in-out forwards; }
+    
+    @media (prefers-color-scheme: dark) {
+      .hero-text { fill: #F4F4F4; }
+      .sub-text { fill: #A1A1A1; }
+      .line { fill: #333; }
+    }
+  </style>
+  <text x="50%" y="50" text-anchor="middle" class="hero-text">Jose Pacheco</text>
+  <text x="50%" y="85" text-anchor="middle" class="sub-text">Cybersecurity Engineer & IT Engineering Student</text>
+  <rect x="0" y="105" width="600" height="1" class="line" />
+</svg>
