@@ -18,9 +18,9 @@
 
 ### 🏗️ Current Focus
 
-*   **EducaTI:** Architecting a modern SaaS platform focused on educational efficiency and accessibility.
-*   **Enterprise Tooling:** Developing IT Command Center tools to streamline infrastructure monitoring and incident response.
-*   **Vibe Coding:** Leveraging AI agents and high-level abstractions to drive rapid, reliable implementation cycles.
+*   **Infrastructure Defense & Pentesting:** Architecting hardened "Defense-in-Depth" perimeters and performing offensive security assessments to identify and mitigate critical vulnerabilities before they are exploited.
+*   **SMB Digital Transformation:** Engineering bespoke enterprise software solutions for small to medium businesses, focused on automating legacy workflows with secure, cloud-native architectures.
+*   **Agentic Systems Engineering:** Researching and implementing AI-driven agentic workflows to accelerate both DevSecOps cycles and high-level software implementation—bridging the gap between speed and security.
 
 <br>
 
@@ -41,12 +41,16 @@
     <td width="33%" align="center" valign="top">
       <h4>Secure Development</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td width="33%" align="center" valign="top">
       <h4>Infrastructure & Tools</h4>
@@ -66,6 +70,15 @@
 ### 🧠 Philosophy
 
 I believe that **security is not a feature**, but the foundation of all software. My approach blends strict security protocols with modern front-end motion design to create applications that are as resilient as they are intuitive. By integrating AI-assisted development into my workflow, I maintain a high velocity without compromising on structural integrity.
+
+<br>
+
+### 💼 Professional Services
+
+I am available for specialized consulting and project-based engagements:
+
+*   **Security Consulting:** End-to-end security life cycle management, from offensive **Penetration Testing** and vulnerability assessments to defensive **Infrastructure Hardening** and IAM architecture.
+*   **Bespoke Software Development:** Full-stack engineering of secure, scalable enterprise solutions tailored for small to medium businesses, leveraging modern cloud-native stacks (Next.js, Python, .NET).
 
 <br>
 
